@@ -93,5 +93,5 @@ async def fetch_paper(ctx):
             await ctx.send(message)
 
 
-TOKEN = 'MTMwMzA5Mzk3MTk2MjI5ODQ5MQ.GAfcgu.gjlJNi7rlpSnO4oxHJymMY-Yisk5vUpao0bmwQ'
+TOKEN = 'your_token'
 bot.run(TOKEN)
